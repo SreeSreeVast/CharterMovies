@@ -55,6 +55,7 @@ The file that renders movie posters, title, and genre based on the date passed.
 * Process
   * Based on data recieved from App.js deconstructs each element --- id, title, genres
   * Using src public folder, renders image using the id 
+    * If image not found, use default image using onerror
   * Displays title and genres hidden through PopUp.js 
 
 PopUp.js
