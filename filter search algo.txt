@@ -1,0 +1,15 @@
+filter search algo 
+
+4 cases 
+
+if search empty and filter empty 
+	setmovies(data)
+else if search is fill and filter empty 
+	res= filter(search) 
+	setmovies(res)
+else if search is empty and filter is fill
+	res= filter(filter)
+	setmovies(res)
+else if search is fill and filter is fill
+	res = filter(search && filter)
+	setmovies(res

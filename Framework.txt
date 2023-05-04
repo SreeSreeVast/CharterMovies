@@ -1,0 +1,9 @@
+Public --> for imgs 
+
+HomePage.js --> display all imgs and titles *****
+ViewMoviePage.js --> show genre, title, img *****
+SearchBar.js --> No results UI/ Interactive search bar *****
+Filter.js --> drop down with instant feedback *****
+
+Image handler HomePage/ViewMoviePage --> default image when not displaying
+
