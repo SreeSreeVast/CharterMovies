@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CharterMovies/static/css/main.9d59873e.css",
-    "main.js": "/CharterMovies/static/js/main.2dceaaa7.js",
+    "main.js": "/CharterMovies/static/js/main.e047cbaf.js",
     "static/js/787.6cb8be60.chunk.js": "/CharterMovies/static/js/787.6cb8be60.chunk.js",
     "index.html": "/CharterMovies/index.html",
     "main.9d59873e.css.map": "/CharterMovies/static/css/main.9d59873e.css.map",
-    "main.2dceaaa7.js.map": "/CharterMovies/static/js/main.2dceaaa7.js.map",
+    "main.e047cbaf.js.map": "/CharterMovies/static/js/main.e047cbaf.js.map",
     "787.6cb8be60.chunk.js.map": "/CharterMovies/static/js/787.6cb8be60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d59873e.css",
-    "static/js/main.2dceaaa7.js"
+    "static/js/main.e047cbaf.js"
   ]
 }
