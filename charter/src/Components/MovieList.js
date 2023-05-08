@@ -7,7 +7,7 @@ export const MovieList= ({movie}) => {
     const {id,title,genres} = movie;
     //if image not found in public folder --- default image
     const defaultSrc = (e)=> {
-        e.target.src= "/img/defaultImage.jpeg"
+        e.target.src= process.env.PUBLIC_URL + '/img/defaultImage.jpeg'
     }
     //pop up useState
     const [open, setOpen] = useState(false)
